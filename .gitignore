@@ -1,0 +1,18 @@
+# Окружение
+.venv/
+venv/
+
+# Секреты (токен бота)
+.env
+
+# База данных задач
+tasks.db
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Редакторы и ОС
+.idea/
+.vscode/
+.DS_Store
